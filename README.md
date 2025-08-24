@@ -6,3 +6,4 @@ I'm a passionate frontend developer exploring the intersection of web technologi
 - 🌱 Learning **LLM integration and agent frameworks**
 - 💡 Interested in **vue, TypeScript, and LangChain**
 - 🎯 2025 Goal: **Contribute to open source projects**
+[![My Skills](https://skillicons.dev/icons?i=java,vue,c,python,figma&theme=light)](https://skillicons.dev)
